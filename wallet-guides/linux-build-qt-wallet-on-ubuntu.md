@@ -2,7 +2,7 @@
 
 Here is quick guide to build the DeepOnion wallet on Ubuntu 16.04.
 
-**Step 1**: Ensure git is installed.  
+**Step 1**: Ensure git is installed.
   
 Code:
 
@@ -10,7 +10,7 @@ Code:
 sudo apt-get install git
 ```
 
-**Step 2:** Clone the repo  
+**Step 2:** Clone the repo
   
 Code:
 
@@ -31,7 +31,7 @@ Code:
  sudo apt-get install qt5-default qt5-qmake qtbase5-dev-tools qttools5-dev-tools build-essential libboost-dev libboost-system-dev libboost-filesystem-dev libboost-program-options-dev libboost-thread-dev libssl-dev libdb++-dev libevent-dev libqrencode-dev
 ```
 
-**Step 4:** Build leveldb  
+**Step 4:** Build leveldb
   
 Code:
 
@@ -42,7 +42,7 @@ make libleveldb.a libmemenv.a
 cd ../..
 ```
 
-**Step 5:** Build the QT wallet  
+**Step 5:** Build the QT wallet
   
 Code:
 
@@ -51,7 +51,7 @@ qmake
 make
 ```
 
-**Step 6:** RUN!  
+**Step 6:** RUN!
   
 Code:
 
