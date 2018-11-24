@@ -3,7 +3,7 @@
 Here is quick guide to build the DeepOnion wallet on Ubuntu 16.04.
 
 **Step 1**: Ensure git is installed.
-  
+
 Code:
 
 ```text
@@ -11,7 +11,7 @@ sudo apt-get install git
 ```
 
 **Step 2:** Clone the repo
-  
+
 Code:
 
 ```text
@@ -32,7 +32,7 @@ Code:
 ```
 
 **Step 4:** Build leveldb
-  
+
 Code:
 
 ```text
@@ -43,7 +43,7 @@ cd ../..
 ```
 
 **Step 5:** Build the QT wallet
-  
+
 Code:
 
 ```text
@@ -52,7 +52,7 @@ make
 ```
 
 **Step 6:** RUN!
-  
+
 Code:
 
 ```text
