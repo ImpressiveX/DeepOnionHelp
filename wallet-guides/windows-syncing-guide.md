@@ -1,7 +1,5 @@
 # Windows: Syncing Guide
 
-
-
 The purpose of this tutorial is to give you every single step to ensure you can get your wallet functioning properly.
 
 {% hint style="info" %}
