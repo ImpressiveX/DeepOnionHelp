@@ -1,6 +1,6 @@
 # Coin Control
 
-1. Go to Settings, Options, Display and mark the checkbox "Display Coin Control Features". Click Ok.
+1. Go to Settings, options, display and mark the checkbox "Display Coin Control Features". Click Ok.
 2. Go to Send Coins and Inputs.
 3. You will see a list \(Tree mode\) with different blocks of coins.
 4. There, you can select from which block of coins you want to make your transaction. I recommend that you select small blocks until you get the amount that you need. For example if you need 100 ONION, select 1 block with 135 ONION or two small blocks with 50 and 50. You will see what will be better.
