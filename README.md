@@ -1,7 +1,3 @@
----
-description: DeepOnion is an anonymous cryptocurrency that integrates Tor natively.
----
-
 # DeepOnion - Overview
 
 ![](.gitbook/assets/deeponion_logo.png)
