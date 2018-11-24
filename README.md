@@ -12,9 +12,20 @@ DeepOnion is an anonymous cryptocurrency that integrates Tor natively. We increa
 
 ## Links
 
-**Homepage:** [https://deeponion.org](https://deeponion.org)
+**Homepage:** [https://deeponion.org](https://deeponion.org)  
+**DeepVault:** [https://deepvaultonline.com](https://deepvaultonline.com)  
+**Knowledge Base:** [https://help.deeponion.org](https://help.deeponion.org)  
+**Blockchain Explorer:** [http://explorer.deeponion.org](http://explorer.deeponion.org)
 
-**DeepVault:** [https://deepvaultonline.com](https://deepvaultonline.com)
+**Official Contact:** [info@deeponion.org](mailto:info@deeponion.org)  
+**Ecommerce Support:** [support@onionpay.org](mailto:support@onionpay.org)
 
+**Twitter:** [https://twitter.com/GetDeepOnion](https://twitter.com/GetDeepOnion)  
+**Telegram:** [https://t.me/DeepOnionCoin](https://t.me/DeepOnionCoin)  
+**YouTube:** [https://www.youtube.com/DeepOnionOfficial](https://www.youtube.com/DeepOnionOfficial)  
+**GitHub:** [https://github.com/deeponion/deeponion](https://github.com/deeponion/deeponion)  
+**BitcoinTalk:** [https://bitcointalk.org/index.php?topic=2683530.0](https://bitcointalk.org/index.php?topic=2683530.0)
+
+**Whitepaper:** [https://deeponion.org/downloads/whitepaper.pdf](https://deeponion.org/downloads/whitepaper.pdf)  
 
 
