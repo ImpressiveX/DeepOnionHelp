@@ -12,7 +12,7 @@ When a wallet is not connecting you will see the following: _This wallet is not 
 a. Wallet must be running at least once in order for AppData directory to create.  
 b. Download wallet [here](https://deeponion.org/index.php#download).  
 c. Details on extraction and running process can be found in the first part of [this tutorial](https://deeponion.org/community/threads/deeponion-wallet-installation-tutorial.19/).  
-2\) Make sure firewall is not blocking DeepOnion  
+2\) Make sure firewall is not blocking DeepOnion.  
   
 **Creating .conf file**  
   
