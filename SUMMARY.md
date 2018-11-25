@@ -1,6 +1,7 @@
 # Table of contents
 
 * [DeepOnion - Overview](README.md)
+* [Submit Support Ticket](https://deeponion.org/community/support-tickets/open)
 
 ## Wallet Guides
 
