@@ -1,6 +1,6 @@
 # Raspberry: DeepOnion Wallet Installation
 
-This guide will show you how to install the DeepOnion wallet on Raspberry pi 3 model B. Maybe it will also work on the older Raspberry revisions, but the tutorial was created for Raspberry pi 3 model B.
+This guide will show you how to install the DeepOnion wallet on Raspberry pi 3 model B. It may also work on the older Raspberry revisions, but this guide was created for Raspberry pi 3 model B.
 
 **STEP 1:** Go and buy Raspberry Pi 3 model B \(RS or E-14 does not matter which as they are almost identical\).  
 **STEP 2:** Download and copy latest **Raspbian Stretch with a desktop** to your SD card \(you need at least 8 GB Card, but it's better to have 16GB\) [\(Download Raspbian for Raspberry Pi\)](https://www.raspberrypi.org/downloads/raspbian/)  
@@ -17,7 +17,7 @@ This guide will show you how to install the DeepOnion wallet on Raspberry pi 3 m
 
 This installation will take around 2-5 minutes depending on your internet connection.  
   
-**STEP 6:** Now we have all of the required software. So we are ready for work. Lets download the DeepOnion wallet source code. Run commandCode:
+**STEP 6:** Now we have all of the required software. So we are ready for work. Let's download the DeepOnion wallet source code. Run commandCode:
 
 ```text
 git clone --recursive https://github.com/deeponion/deeponion.git
@@ -45,7 +45,9 @@ Let's switch downloaded source code to the raspberry branch. Run two commands:
 > _../dist/configure --enable-cxx --disable-shared --with-pic --prefix=$BDB\_PREFIX_  
 > _make install_
 
-The last command will take quite long time. Make yourself a coffee while you wait ![:\)](https://deeponion.org/community/styles/default/xenforo/clear.png.pagespeed.ce.nrV9Gw70Cm.png)
+{% hint style="info" %}
+The last command will take quite long time. Make yourself a coffee while you wait. ☕
+{% endhint %}
 
 **STEP 9:** Okay Berkley libraries is done, now let's configure DeepOnion source code for installation. Run these three commands:
 
@@ -119,7 +121,9 @@ After the file has been saved, run this command:
 
 > _sudo update-desktop-database_
 
-After running the command check your systems main menu, section "OTHER". There you will see the shortcut you have created for your wallet with the image which you have chosen.  
-  
+After running the command check your systems main menu, section "OTHER". There you will see the shortcut you have created for your wallet with the image which you have chosen.
+
+{% hint style="success" %}
 Now you can easily use your wallet without all the troubles with the console. Happy Staking!
+{% endhint %}
 
