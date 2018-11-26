@@ -1,6 +1,6 @@
 # Raspberry: DeepOnion Wallet Installation
 
-This guide will show you how to install the DeepOnion wallet on Raspberry pi 3 model B. It may also work on the older Raspberry revisions, but this guide was created for Raspberry pi 3 model B.
+This guide will show you how to install the DeepOnion wallet on Raspberry pi 3 model B. It may also work on the older Raspberry revisions, but this guide was created specifically for the Raspberry pi 3 model B.
 
 **STEP 1:** Go and buy Raspberry Pi 3 model B \(RS or E-14 does not matter which as they are almost identical\).  
 **STEP 2:** Download and copy latest **Raspbian Stretch with a desktop** to your SD card \(you need at least 8 GB Card, but it's better to have 16GB\) [\(Download Raspbian for Raspberry Pi\)](https://www.raspberrypi.org/downloads/raspbian/)  
