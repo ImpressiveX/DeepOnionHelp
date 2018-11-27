@@ -25,7 +25,7 @@ Drag the DeepOnion app icon into your Applications folder.
 **STEP 5**
 
 Click onto your desktop so that the "Finder" menu shows at the top left of the screen.  
-Select the "Go" tab and scroll down to "Go to folder"
+Select the "Go" tab and scroll down to "Go to folder".
 
 {% hint style="info" %}
 Important: enter \(~/Library/Application Support\) and then press GO.
