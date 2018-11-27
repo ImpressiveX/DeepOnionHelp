@@ -2,11 +2,11 @@
 
 **STEP 1**  
   
-\(a\) Go to [**https://deeponion.org/\#download**](https://deeponion.org/#download) to download the mac wallet.  
+\(a\) Go to [**https://deeponion.org/\#download**](https://deeponion.org/#download) to download the latest MacOS wallet.  
   
 **STEP 2**  
   
-Double click the mac **.dmg** and a warning will pop up telling you that deepOnion cant be opened because it is from an unidentified developer.  
+Double click the **.dmg** and a warning will pop up telling you that DeepOnion can't be opened because it is from an unidentified developer.  
   
 You may enable this by going to:  
   
@@ -31,11 +31,10 @@ Select the "Go" tab and scroll down to "Go to folder"
 Important: enter \(~/Library/Application Support\) and then press GO.
 {% endhint %}
 
-You will be taken to the "Application Support" folder where you will search for the "Deep Onion" folder and open it. Next a .conf file and drag it to the "Deep Onion" folder.
+You will be taken to the "Application Support" folder where you will search for the "DeepOnion" folder and open it. Next download the .conf file in the link below and drag it to the "DeepOnion" folder.
 
 {% file src="../.gitbook/assets/deeponion.conf" caption="Download DeepOnion.conf" %}
 
 **STEP 6**  
   
 You can now open the DeepOnion app.
-
