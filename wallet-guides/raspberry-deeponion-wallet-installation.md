@@ -9,14 +9,14 @@ This guide will show you how to install the DeepOnion wallet on Raspberry pi 3 m
 
 > _sudo apt-get update_
 
-**Important information:** From this moment All commands should be done in one opened terminal. Below you will see the reason why we need to do it all in one terminal window.  
-  
+**Important information:** From this moment All commands should be done in one opened terminal. Below you will see the reason why we need to do it all in one terminal window.
+
 **STEP 5:** Our repositories are updated and we can setup required software. Run command:
 
 > _sudo apt-get install build-essential libtool autotools-dev autoconf automake pkg-config libssl-dev libboost-all-dev bsdmainutils libqrencode-dev libminiupnpc-dev libevent-dev libcap-dev libseccomp-dev git libqt5gui5 libqt5core5a libqt5dbus5 qttools5-dev qttools5-dev-tools libprotobuf-dev protobuf-compiler_
 
-This installation will take around 2-5 minutes depending on your internet connection.  
-  
+This installation will take around 2-5 minutes depending on your internet connection.
+
 **STEP 6:** Now we have all of the required software. So we are ready for work. Let's download the DeepOnion wallet source code. Run commandCode:
 
 ```text
@@ -69,11 +69,11 @@ After deletion, save Makefile and close text redactor.
 
 DeepOnion wallet compilation will begin. This process will be very long and will require all of the cpu and ram capacity. Around 2 hours are needed for this step.
 
-As result, will be created "DeepOnion-qt" file inside your '/home/pi/deeponion/src/' directory  
-  
+As result, will be created "DeepOnion-qt" file inside your '/home/pi/deeponion/src/' directory
+
 Okay. The wallet is compiled. How to run it?
 
-To run the wallet you need to put full file path with all directories in the console. Run command: 
+To run the wallet you need to put full file path with all directories in the console. Run command:
 
 > _src/qt/DeepOnion-qt_
 
@@ -87,8 +87,8 @@ Right-click and save the file.
 
 **STEP 13:** OK. The config file is created and it already contains newest nodes.  
 File path: "/home/pi/.DeepOnion/DeepOnion.conf"  
-".DeepOnion" it is hidden folder  
-  
+".DeepOnion" it is hidden folder
+
 Now just add to DeepOnion.conf file two more lines and save it. Don't delete other lines.
 
 > rpcuser=put\_something  
@@ -96,8 +96,8 @@ Now just add to DeepOnion.conf file two more lines and save it. Don't delete oth
 
 Now you can try to run the wallet again. It will start without errors and will be syncing \(if nodes are ok\).
 
-**Little tip:** You can copy in this directory your wallet.dat file from Windows wallet and it will work fine.  
-  
+**Little tip:** You can copy in this directory your wallet.dat file from Windows wallet and it will work fine.
+
 **Step 14:** Ok, the wallet is working fine, but running it always from the console it is not very convenient. Let's create a shortcut for it.
 
 First download DeepOnion wallet logo which you want to use and save it as  
