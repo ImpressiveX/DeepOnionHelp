@@ -16,3 +16,7 @@
 * [Coin Control](wallet-guides/coin-control.md)
 * [Sending ONION](wallet-guides/sending-onion.md)
 
+## General Guides
+
+* [How do I buy ONION?](general-guides/how-do-i-buy-onion.md)
+
