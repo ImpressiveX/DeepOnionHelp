@@ -2,7 +2,7 @@
 
 **STEP 1**
 
-Go to [**https://deeponion.org/\#download**](https://deeponion.org/#download) to download the latest MacOS wallet.
+Go to [https://deeponion.org/\#download](https://deeponion.org/#download) to download the latest MacOS wallet.
 
 **STEP 2**
 
