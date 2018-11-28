@@ -1,7 +1,7 @@
 # Sending Encrypted Messages
 
-Sending encrypted messages is important for discussing transactions and private/proprietary information between wallet holders. Both parties involved must have a **public key** setup for their address in order to communicate.  
-  
+Sending encrypted messages is important for discussing transactions and private/proprietary information between wallet holders. Both parties involved must have a **public key** setup for their address in order to communicate.
+
 **Creating Public Key and Setup**
 
 1. In the DeepOnion wallet, copy your address to the clipboard. a. “Receive coins” tab &gt; right click &gt; Copy address. b. You should also rename your wallet to whatever you wish.

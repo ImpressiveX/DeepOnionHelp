@@ -26,4 +26,5 @@
 * [What is DeepVault?](general-guides/what-is-deepvault.md)
 * [What is DeepSend?](general-guides/what-is-deepsend.md)
 * [What is VoteCentral?](general-guides/what-is-votecentral.md)
+* [Where do I download the Wallet?](general-guides/where-do-i-download-the-official-wallet.md)
 
