@@ -18,9 +18,6 @@ Write:
 dumpprivkey YourPrivateKey
 ```
 
-Example:  
-![\[&#x200B;IMG\]](https://deeponion.org/community/attachments/jk5qqr9-jpg.139/)  
-  
 Your private key will be revealed. Take great care of it. Your private key represents all of the ONION saved on its particular address.  
   
 With the use of private keys, you can generate DeepOnion cold storage paper wallets for long-term holding.
