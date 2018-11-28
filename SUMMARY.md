@@ -20,6 +20,7 @@
 * [Coin Control](wallet-guides/coin-control.md)
 * [Sending ONION](wallet-guides/sending-onion.md)
 * [Wallet Closes Automatically](wallet-guides/wallet-closes-automatically.md)
+* [Android: DeepOnion Wallet Installation](wallet-guides/android-deeponion-wallet-installation.md)
 
 ## General Guides
 
