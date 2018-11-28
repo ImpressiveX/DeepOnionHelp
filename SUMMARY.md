@@ -12,4 +12,5 @@
 * [Linux: Build QT wallet on Ubuntu](wallet-guides/linux-build-qt-wallet-on-ubuntu.md)
 * [Raspberry: DeepOnion Wallet Installation](wallet-guides/raspberry-deeponion-wallet-installation.md)
 * [Coin Control](wallet-guides/coin-control.md)
+* [Windows: Wallet Backup & Import](wallet-guides/windows-wallet-backup-and-import.md)
 
