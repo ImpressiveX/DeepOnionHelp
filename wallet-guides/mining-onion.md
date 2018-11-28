@@ -11,7 +11,7 @@ If you like, you can learn more about Nicehash [here](https://www.cryptocompare.
 Fund your account with some BTC. A little goes a long way -- 0.01 is required.  
   
   
-  
+{% modalYoutube %}https://www.youtube.com/watch?v=uRiLhXiDH18 Look at this video!{% endmodalYoutube %}
   
 **Third Step**  
   
