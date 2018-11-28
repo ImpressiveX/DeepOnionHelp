@@ -48,5 +48,5 @@ That’s it! If you honestly cannot get the wallet running after this point, may
 2. Check mark “Connect through SOCKS proxy” – Apply – OK.
 3. Restart Wallet.
 
-![Network Settings](../.gitbook/assets/window-socks.png)
+![Network Settings](../../.gitbook/assets/window-socks.png)
 

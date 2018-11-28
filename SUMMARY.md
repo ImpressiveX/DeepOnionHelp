@@ -5,11 +5,12 @@
 
 ## Wallet Guides
 
+* [Windows](wallet-guides/windows/README.md)
+  * [Windows: DeepOnion Wallet Installation](wallet-guides/windows/windows-deeponion-wallet-installation.md)
+  * [Windows: Syncing Guide](wallet-guides/windows/windows-syncing-guide.md)
+  * [Windows: Wallet Backup & Import](wallet-guides/windows/windows-wallet-backup-and-import.md)
+  * [Windows: Creating conf file](wallet-guides/windows/windows-creating-conf-file.md)
 * [Mac: DeepOnion Wallet Installation](wallet-guides/mac-deeponion-wallet-installation.md)
-* [Windows: DeepOnion Wallet Installation](wallet-guides/windows-deeponion-wallet-installation.md)
-* [Windows: Wallet Backup & Import](wallet-guides/windows-wallet-backup-and-import.md)
-* [Windows: Syncing Guide](wallet-guides/windows-syncing-guide.md)
-* [Windows: Creating conf file](wallet-guides/windows-creating-conf-file.md)
 * [Linux: Build QT wallet on Ubuntu](wallet-guides/linux-build-qt-wallet-on-ubuntu.md)
 * [Raspberry: DeepOnion Wallet Installation](wallet-guides/raspberry-deeponion-wallet-installation.md)
 * [Sending Encrypted Messages](wallet-guides/sending-encrypted-messages.md)
