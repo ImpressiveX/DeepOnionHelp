@@ -18,12 +18,12 @@
 * [Sending Encrypted Messages](wallet-guides/sending-encrypted-messages.md)
 * [Coin Control](wallet-guides/coin-control.md)
 * [Sending ONION](wallet-guides/sending-onion.md)
+* [Wallet Closes Automatically](wallet-guides/wallet-closes-automatically.md)
 
 ## General Guides
 
 * [How do I buy ONION?](general-guides/how-do-i-buy-onion.md)
-* [What is VoteCentral?](general-guides/what-is-votecentral.md)
 * [What is DeepVault?](general-guides/what-is-deepvault.md)
 * [What is DeepSend?](general-guides/what-is-deepsend.md)
-* [Wallet closes automatically](general-guides/wallet-closes-automatically.md)
+* [What is VoteCentral?](general-guides/what-is-votecentral.md)
 
