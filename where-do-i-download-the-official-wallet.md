@@ -1,4 +1,4 @@
-# Where do I download the Wallet?
+# Download Wallet
 
 [Click Here](https://deeponion.org/#download) to download the Official DeepOnion Wallet.
 
