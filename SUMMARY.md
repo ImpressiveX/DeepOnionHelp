@@ -20,4 +20,5 @@
 
 * [How do I buy ONION?](general-guides/how-do-i-buy-onion.md)
 * [What is VoteCentral?](general-guides/what-is-votecentral.md)
+* [What is DeepVault?](general-guides/what-is-deepvault.md)
 
