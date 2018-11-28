@@ -2,7 +2,6 @@
 
 * [DeepOnion - Overview](README.md)
 * [Submit Support Ticket](https://deeponion.org/community/support-tickets/open)
-* [Download Wallet](where-do-i-download-the-official-wallet.md)
 
 ## Wallet Guides
 
