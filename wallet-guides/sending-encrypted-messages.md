@@ -1,6 +1,6 @@
 # Sending Encrypted Messages
 
-This is important for discussing transactions and private/proprietary information between wallet holders. Both parties involved must have a **public key** setup for their address in order to communicate.  
+Sending encrypted messages is important for discussing transactions and private/proprietary information between wallet holders. Both parties involved must have a **public key** setup for their address in order to communicate.  
   
 **Creating Public Key and Setup**
 
