@@ -33,7 +33,7 @@ Important: enter \(~/Library/Application Support\) and then press GO.
 
 You will be taken to the "Application Support" folder where you will search for the "DeepOnion" folder and open it. Next download the .conf file in the link below and drag it to the "DeepOnion" folder.
 
-{% file src="../.gitbook/assets/deeponion.conf" caption="Download DeepOnion.conf" %}
+{% file src="../../.gitbook/assets/deeponion.conf" caption="Download DeepOnion.conf" %}
 
 **STEP 6**
 
