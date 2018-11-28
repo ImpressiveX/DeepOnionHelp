@@ -21,7 +21,6 @@
 * [Wallet Closes Automatically](wallet-guides/wallet-closes-automatically.md)
 * [Android: DeepOnion Wallet Installation](wallet-guides/android-deeponion-wallet-installation.md)
 * [Saving Private Key](wallet-guides/saving-private-key.md)
-* [Mining ONION](wallet-guides/mining-onion.md)
 
 ## General Guides
 
