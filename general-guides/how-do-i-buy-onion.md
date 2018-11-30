@@ -1,6 +1,6 @@
 # How do I buy ONION?
 
-You can always find out where to buy ONION by clicking the "Markets" tab on CoinMarketcap. Here's the link below:
+You can find out where to buy ONION by clicking the "Markets" tab on CoinMarketcap. Here's the link below:
 
 [https://coinmarketcap.com/currencies/deeponion/\#markets](https://coinmarketcap.com/currencies/deeponion/#markets)  
   
