@@ -12,3 +12,5 @@ DeepOnion is available for purchase from exchanges such as Kucoin, Cryptopia and
 You can buy and sell DeepOnion cryptocurrency with ease. [Click Here](https://deeponion.org/#exchanges) to view the full list of exchanges.
 {% endhint %}
 
+[https://www.youtube.com/watch?v=\_HjToekoEMk](https://www.youtube.com/watch?v=_HjToekoEMk)
+
