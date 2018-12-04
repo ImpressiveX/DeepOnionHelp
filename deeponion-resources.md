@@ -36,7 +36,7 @@
 * [XIPHOS - ONION-BTC](https://xiphos.exchange/exchange/trade/BTC/ONION)
 * [XIPHOS - ONION-ETH](https://xiphos.exchange/exchange/trade/ETH/ONION)
 * [XIPHOS - ONION-LTC](https://xiphos.exchange/exchange/trade/LTC/ONION)
-* [https://bitibu.com/markets/onionbtc](https://bitibu.com/markets/onionbtc)
+* [Bitibu Exchange](https://bitibu.com/markets/onionbtc)
 
 ## Coin Stat Apps for DeepOnion
 
@@ -75,7 +75,7 @@
 * [Deeponion Bounties](https://deeponion.org/community/forums/deeponion-bounties.27/)
 * [Deeponion Contests](https://deeponion.org/community/forums/deeponion-contests.40/)
 
-## Blockchain Explorer
+## Blockchain Explorers
 
 * [Official Block Explorer](http://explorer.deeponion.org/)
 * [Official Block Explorer \#2](http://explorer2.deeponion.org/)
@@ -120,6 +120,3 @@
 {% hint style="info" %}
 **Start Mining! DeepOnion uses the x13 algorithm.**
 {% endhint %}
-
-
-
