@@ -2,11 +2,11 @@
 
 * [DeepOnion - Overview](README.md)
 * [DeepOnion Resources](deeponion-resources.md)
-* [DeepOnion Music](deeponion-music.md)
 * [DeepOnion Quick Sync](deeponion-quick-sync.md)
+* [DeepOnion Music](deeponion-music.md)
+* [DeepOnion Promotional Graphics](deeponion-promotional-graphics.md)
 * [Frequently Asked Questions](frequently-asked-questions.md)
 * [Submit Support Ticket](https://deeponion.org/community/support-tickets/open)
-* [DeepOnion Promotional Graphics](deeponion-promotional-graphics.md)
 
 ## Wallet Guides
 
