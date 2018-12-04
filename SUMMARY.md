@@ -4,6 +4,7 @@
 * [DeepOnion Resources](deeponion-resources.md)
 * [Frequently Asked Questions](frequently-asked-questions.md)
 * [Submit Support Ticket](https://deeponion.org/community/support-tickets/open)
+* [DeepOnion Quick Sync](deeponion-quick-sync.md)
 
 ## Wallet Guides
 
