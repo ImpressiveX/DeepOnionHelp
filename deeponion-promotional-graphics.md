@@ -41,7 +41,7 @@ Hex: \#FFFFFF
 
 **DeepOnion Typography**
 
-These are the recommended fonts we use to maintain a consistent design aesthetic for our brand.
+These are the recommended fonts we use to maintain a consistent design aesthetic of our brand.
 
 **Open Sans:** [Google Fonts Open Sans](https://fonts.google.com/specimen/Open+Sans?selection.family=Open+Sans)  
 **Prometo Font:** [Adobe Typekit Prometo](https://typekit.com/fonts/prometo)
