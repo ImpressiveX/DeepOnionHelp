@@ -11,3 +11,5 @@ rpcpassword=EnterPassword
 
 Please change the password shown above in the rpcpassword line.
 
+Attention: This rpcpassword alert is normally only the case for Mac OS wallets.
+
