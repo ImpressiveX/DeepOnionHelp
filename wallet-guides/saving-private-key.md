@@ -1,6 +1,6 @@
 # Saving Private Key
 
-First of all I'd like to recommend that you encrypt your wallet. Choose **Settings** -&gt; **Encrypt Wallet**. If successful, restart your wallet. 
+First of all I'd like to recommend that you encrypt your wallet. Choose **Settings** -&gt; **Encrypt Wallet**. If successful, restart your wallet. When encrypting wallet make sure you choose a password that is easy to remember. Without the correct password you will be unable to access your funds.
 
 Now you can go to **File** -&gt; **Backup Wallet** to save your wallet's dat file on a USB stick/your Dropbox etc. Secure it well. Remember the password to your wallet. You must remember it.  
   
