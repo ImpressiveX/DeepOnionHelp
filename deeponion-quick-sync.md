@@ -1,9 +1,3 @@
----
-description: >-
-  Every 48 hours the blockchain .zip will automatically update to the newest
-  blockchain download.
----
-
 # DeepOnion Quick Sync
 
 ## **Blockchain Installation Instructions**
