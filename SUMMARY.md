@@ -33,4 +33,3 @@
 * [What is DeepVault?](general-guides/what-is-deepvault.md)
 * [What is DeepSend?](general-guides/what-is-deepsend.md)
 * [What is VoteCentral?](general-guides/what-is-votecentral.md)
-
