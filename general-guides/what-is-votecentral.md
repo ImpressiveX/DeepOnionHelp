@@ -4,5 +4,5 @@ VoteCentral is a web application developed my the DeepOnion team. It allows the 
 
 VoteCentral is an important feature because it democratizes DeepOnion, ensuring that no one person, or small group of people, have too much control over the project. All decisions will be community driven.
 
-Visit VoteCentral to learn more: [https://deeponion.org/votecentral/](https://deeponion.org/votecentral/)
+Sign up to VoteCentral by visiting: [https://deeponion.org/votecentral/](https://deeponion.org/votecentral/)
 
